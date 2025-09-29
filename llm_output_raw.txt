@@ -1,0 +1,1 @@
+LLM raw narrative (example):\nPlayer X shows declining shot accuracy after minute 30. Recommend targeted coaching and substitution pattern changes. (This is a generated hypothesis to be validated.)

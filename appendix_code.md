@@ -1,0 +1,1 @@
+Appendix B: Code & Reproducibility\n- analysis/descriptive_stats.py: loads data and computes means\n- analysis/uncertainty_analysis.py: bootstrap code (seed=123)\n- analysis/bias_fairness_checks.py: subgroup comparisons\n- analysis/robustness_sensitivity.py: drop-top-N sensitivity tests\

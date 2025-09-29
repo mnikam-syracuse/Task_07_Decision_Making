@@ -1,0 +1,1 @@
+Appendix A: LLM Outputs\n\nSee prompts/ for saved prompts and raw outputs. All LLM text labeled as 'LLM-generated' in main report.

@@ -1,0 +1,1 @@
+Original prompt given to LLM:\nGenerate a narrative from seasonal statistics of the SU sports team and recommend coaching actions focused on shot accuracy and fatigue effects.

@@ -1,0 +1,1 @@
+# Annotated LLM Output\n- Claim: Declining shot accuracy after minute 30.\n  - Validation: Checked via bootstrapped mean differences; CI excludes zero.\n- Claim: Personnel change recommended.\n  - Action: Flagged as high-stakes and requires human review; not endorsed based solely on LLM output.
